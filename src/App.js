@@ -12,6 +12,7 @@ function App() {
       />
       <List 
         list = {list}
+        setList = {setList}
       />
     </div>
   );
